@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "description": "Practicing backend here",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pav-op/backend.git"
+  },
+  "author": "Airpods69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pav-op/backend/issues"
+  },
+  "homepage": "https://github.com/pav-op/backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
